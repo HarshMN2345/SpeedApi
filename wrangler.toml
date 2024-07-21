@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-06-22"
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://casual-dane-50932.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="Acb0AAIncDFlZjQ2ODQ4OTYwODU0OTBmYmVjNDcwM2YwMjU1YTI5ZHAxNTA5MzI"
